@@ -5,4 +5,4 @@ List EC2 instances private IP for a given stack name.
 - boto
 
 #### Usage
-./aws-list.py [stack_name]
+./get_vpc_private_ips.py [stack_name]
